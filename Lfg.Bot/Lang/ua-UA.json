@@ -1,0 +1,33 @@
+﻿{
+  "PingResponse": "Понг!",
+  "ClearModule": "Видалено {count} повідомлень.",
+  "InfoModuleDescription": "Вітання! Я помічник ігрових серверів. Зі мною учасники знаходять команду для гри, а також безліч нових друзів.",
+  "InfoModuleVersin": "Версiя:",
+  "InfoModuleCreators": "Мої творці:",
+  "InfoModuleUsefulLinks": "Корисні посилання:",
+  "BotInviteLinkModule": "[Запросити бота]",
+  "DocumentationLink": "[Документація]",
+  "SupportServerLink": "[Сервер підтримки]",
+
+  "SlashCommandDescriptionSettingsModule": "Налаштування модулів.",
+  "ServerSettingsSettingsModule": "Налаштування сервера.",
+  "EmbedDescriptionSettingsModule": "Взаємодіяти з меню, що випадає, щоб налаштувати сервер.",
+  "SelectMenuPlaceholderSettingsModule": "Вибрати модуль",
+  "SelectMenuOptionLFGSystemSettingsModule": "Встановлення LFG системи",
+  "SelectMenuOptionLangSettingsModule": "Встановлення мови",
+  "ComponentInteractionSetLangFieldSettingsModule": "Виберіть у випадному вікні мову",
+  "ComponentIneractionSelectMenuPlaceholderSettingsModule": "Виберіть мову",
+
+  "RoomConfiguration": "Конфігурація кімнати",
+  "RoomConfigurationEmbedDescription": "Налаштуйте свою кімнату за допомогою панелі керування.",
+  "FirstRoomConfigurationEmbedDescription": "призначити нового власника кімнати",
+  "SecondRoomConfigurationEmbedDescription": "змінити назву кімнати",
+  "ThirdRoomConfigurationEmbedDescription": "змінити бітрейт",
+  "FourRoomConfigurationEmbedDescription": "встановити новий ліміт учасників",
+  "FiveRoomConfigurationEmbedDescription": "закрити/відкрити кімнату",
+  "SixRoomConfigurationEmbedDescription": "приховати/показати кімнату",
+  "SevenRoomConfigurationEmbedDescription": "обмежити/видати доступ до кімнати",
+  "EightRoomConfigurationEmbedDescription": "обмежити/видати право говорити",
+  "NineRoomConfigurationEmbedDescription": "вигнати учасника з кімнати",
+  "TenRoomConfigurationEmbedDescription": "підняти кімнату"
+}

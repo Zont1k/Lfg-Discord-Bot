@@ -1,0 +1,33 @@
+﻿{
+  "PingResponse": "Понг!",
+  "ClearModule": "Удалено {count} сообщений.",
+  "InfoModuleDescription": "Привет! Я помощник игровых серверов. Со мной участники находят команду для игры, а также множество новых друзей.",
+  "InfoModuleVersin": "Версия:",
+  "InfoModuleCreators": "Мои создатели:",
+  "InfoModuleUsefulLinks": "Полезные ссылки:",
+  "BotInviteLinkModule": "[Пригласить бота]",
+  "DocumentationLink": "[Документация]",
+  "SupportServerLink": "[Сервер поддержки]",
+
+  "SlashCommandDescriptionSettingsModule": "Настройка модулей.",
+  "ServerSettingsSettingsModule": "Настройка сервера.",
+  "EmbedDescriptionSettingsModule": "Взаимодействие с выпадающим меню для настройки сервера.",
+  "SelectMenuPlaceholderSettingsModule": "Выберите модуль",
+  "SelectMenuOptionLFGSystemSettingsModule": "Установка системы LFG",
+  "SelectMenuOptionLangSettingsModule": "Установка языка",
+  "ComponentInteractionSetLangFieldSettingsModule": "Выберите язык в выпадающем окне",
+  "ComponentIneractionSelectMenuPlaceholderSettingsModule": "Выберите язык",
+
+  "RoomConfiguration": "Конфигурация комнаты",
+  "RoomConfigurationEmbedDescription": "Настройте свою комнату с помощью панели управления.",
+  "FirstRoomConfigurationEmbedDescription": "назначить нового владельца комнаты",
+  "SecondRoomConfigurationEmbedDescription": "изменить название комнаты",
+  "ThirdRoomConfigurationEmbedDescription": "изменить битрейт",
+  "FourRoomConfigurationEmbedDescription": "установить новый лимит участников",
+  "FiveRoomConfigurationEmbedDescription": "закрыть/открыть комнату",
+  "SixRoomConfigurationEmbedDescription": "скрыть/показать комнату",
+  "SevenRoomConfigurationEmbedDescription": "ограничить/выдать доступ к комнате",
+  "EightRoomConfigurationEmbedDescription": "ограничить/выдать право говорить",
+  "NineRoomConfigurationEmbedDescription": "выгнать участника из комнаты",
+  "TenRoomConfigurationEmbedDescription": "поднять комнату"
+}
